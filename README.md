@@ -1,7 +1,7 @@
 # judaboyk tiny-chess v14
 
 A 4 KB chess engine for the make.fun tiny-chess-01 competition. One file,
-`main.py` (4,057 bytes), standard library only, deterministic — no model
+`main.py` (4,057-byte engine, 4,074 on disk), standard library only, deterministic — no model
 calls, no wall clock, no unseeded randomness.
 
 ## The engine
